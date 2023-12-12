@@ -1,0 +1,26 @@
+.fullscreen-landing{
+    background:white url(/img/overlays/nainital1.jpg) no-repeat scroll center;
+    height: 100vh;
+    background-size: cover;
+    
+}
+.overlay{
+    background-color: rgb(0,0,0,);
+    height: 100%;
+}
+.search-box{
+    height: 50px;
+    width:500px;
+    margin-left: 20%;
+    padding-left: 50%;
+}
+.subscribe-section{
+    background:black url(scss/addons/b1.jpg)no-repeat scroll center;
+    height: 20vh;
+    background-size: cover;
+}
+.subscribe-overlay{
+    background-color: rgb(0,0,0,);
+    height: 100%;
+
+}
